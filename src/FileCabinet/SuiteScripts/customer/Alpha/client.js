@@ -8,7 +8,7 @@ define(['N/runtime'], function (runtime) {
 
   function validateLine(context) {
     try {
-      console.log('validateLine');
+      console.log('hello world');
       return true;
     } catch (e) {
       console.log('Error in validateLine: ' + e.name, e.message);
