@@ -1,5 +1,5 @@
 <manifest projecttype="ACCOUNTCUSTOMIZATION">
-  <projectname>Set Req Ship Date PO</projectname>
+  <projectname>Test</projectname>
   <frameworkversion>1.0</frameworkversion>
   <dependencies>
     <features>
